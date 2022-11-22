@@ -46,7 +46,7 @@ numba==0.49.1
 numpy==1.18.4
 palettable==3.3.0
 pandas==1.0.3
-pillow==7.1.2
+pillow==9.3.0
 pint==0.11
 plotly==4.7.1
 pubchempy==1.0.4
