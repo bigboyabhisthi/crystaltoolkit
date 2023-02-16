@@ -140,7 +140,7 @@ urllib3==1.25.9
 virtualenv==20.0.21
 wcwidth==0.1.9
 webcolors==1.11.1
-werkzeug==1.0.1
+werkzeug==2.2.3
 yarl==1.4.2
 yaspin==0.17.0
 zipp==3.1.0; python_version < "3.8"
